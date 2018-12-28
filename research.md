@@ -34,7 +34,7 @@ text-decoration: underline;
       <div class="card-stacked">
         <div class="card-content">
         <a href="/Research/Structure.html">
-          <p style="font-size:22px">Structural Variants Discovery</p>
+          <p style="font-size:27px">Structural Variants Discovery</p>
           <br>
           <p>Differences in chromosome structure are a prominent source of human genetic variation. 
           These differences are collectively known as structural variation (SV), 

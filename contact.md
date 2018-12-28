@@ -9,10 +9,10 @@ permalink: /Contact/
 <h4>Email:</h4>
 
 <h6 style="font-size:18px;font-style:italic">Director:<h6>
-<h6 style="font-size:18px">Prof. Kai Ye: kaiye@xjtu.edu.cn<h6>
+<h6 style="font-size:18px">Kai Ye: kaiye@xjtu.edu.cn<h6>
 
 <h6 style="font-size:18px;font-style:italic">Secretary:</h6>
-<h6 style="font-size:18px">Secretary. Jing Hai: haijing@xjtu.edu.cn</h6>
+<h6 style="font-size:18px">Jing Hai: haijing@xjtu.edu.cn</h6>
 
 <h4>    Address:</h4>
 <h6 style="font-size:18px">Ye-lab For Omics And Omic's Informatics<h6>

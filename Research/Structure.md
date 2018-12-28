@@ -5,8 +5,7 @@ title: Structural Variants Discovery
 
 <h1 class="header center blue-text">{{ page.title | escape }}</h1>
 
-<p style="text-align:center"><img src="./Structure/1.jpg">
-</p>
+
 <h6 style="font-size:22px;line-height:30px">Differences in chromosome structure are a prominent source of human genetic variation. 
 These differences are collectively known as structural variation (SV), 
 a term that encompasses diverse genomic alterations including deletion,
@@ -15,12 +14,12 @@ a term that encompasses diverse genomic alterations including deletion,
  order to understand its effects on human disease, complex traits and evolution. </h6>
 
 <div class = "row">
-    <div class = "col s12 m6">
-        <img src="./Structure/2.jpg">
+    <div class = "col s12 m6" style="text-align:center">
+        <img src="./Structure/2.jpg" style="height:550px;width:450px">
     </div>
-    <div class = "col s12 m6">
-         <img src="./Structure/3.jpg">
-         <img src="./Structure/4.jpg">
+    <div class = "col s12 m6" style="text-align:center">
+         <img src="./Structure/3.jpg" style="height:275px;width:450px">
+         <img src="./Structure/4.jpg" style="height:275px;width:450px">
     </div>
 </div>
 
@@ -36,11 +35,11 @@ the platform for discovery and genotyping. However, NGS approaches
  problem and use deep learning technology to profile CSVs. </h6>
 
 <div class = "row">
-    <div class = "col s12 m6">
-        <img src="./Structure/5.jpg">
+    <div class = "col s12 m6" style="text-align:center">
+        <img src="./Structure/5.jpg" style="height:300px">
     </div>
-    <div class = "col s12 m6">
-         <img src="./Structure/6.jpg">
+    <div class = "col s12 m6" style="text-align:center">
+         <img src="./Structure/6.jpg" style="height:300px">
     </div>
 </div>
 

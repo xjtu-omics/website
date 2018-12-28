@@ -22,8 +22,8 @@ layout: default
       <div class="row">
         <div class="col s12">
           <div class="icon-block">
-            <h4 class="center" style="color:#1565c0;font-weight: bold">Welcome to Omics Lab</h4>
-            <p class="light" style="font-size: 17px">Advanced bio-technologies offer us greet opportunities to explore our genome content and its correlation with various biology process, such as cancer development. To answer various biology and medical questions, we develop algorithms for genome structural variants (SV) discovery, single-cell data analysis and others types of bio-data. We also try to understand the impact of SVs, 3D structure on human disease and evolution. The wet part in our lab focus on question driven bio-technology development and provide support to novel discoveries. We now have Crispr-cas9 system, single-cell 10X platform, Hi-C based technology for 3D structure study. We strive to develop computational methods and bio-technologies that help biologist and clinics.</p>
+            <h3 class="center" style="color:#1565c0;font-weight: bold">Welcome to Omics Lab</h3>
+            <p class="light" style="font-size: 20px;font-weight: bold">Advanced bio-technologies offer us greet opportunities to explore our genome content and its correlation with various biology process, such as cancer development. To answer various biology and medical questions, we develop algorithms for genome structural variants (SV) discovery, single-cell data analysis and others types of bio-data. We also try to understand the impact of SVs, 3D structure on human disease and evolution. The wet part in our lab focus on question driven bio-technology development and provide support to novel discoveries. We now have Crispr-cas9 system, single-cell 10X platform, Hi-C based technology for 3D structure study. We strive to develop computational methods and bio-technologies that help biologist and clinics.</p>
           </div>
         </div>
 
@@ -42,9 +42,9 @@ layout: default
         {% for post in site.posts limit:5 %}
         <li class="collection-item avatar1">
           {% assign date_format = site.minima.date_format | default: "%y/%m/%d" %}
-          <div class="title-form"><span class="post-title" style="font-size: 20px"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span></div>
+          <div class="title-form"><span class="post-title" style="font-size: 15px"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span></div>
           <div class="data-form" style="font-size: 10px">{{ post.date | date: date_format }}</div>
-          <p style="font-size: 13px">
+          <p style="font-size: 12px">
 
             {{ post.content | strip_html | truncatewords:5}}
 
