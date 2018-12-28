@@ -31,13 +31,14 @@ permalink: /Album/
     <div class="col s12 m8">
     <img class="materialboxed responsive-img z-depth-1" width="700" src="images/10.jpg">
     </div>
-    <br>
-    <
+</div>
+<div class="row">
     <div class="col s12 m8">
     <img class="materialboxed responsive-img z-depth-1" width="700" src="images/14.jpg">
     </div>
     <div class="col s12 m4">
     <img class="materialboxed responsive-img z-depth-1" width="300" src="images/15.jpg">
+    <br>
     <img class="materialboxed responsive-img z-depth-1" width="300" src="images/12.jpg">
     </div>
 </div>
