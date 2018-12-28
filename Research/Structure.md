@@ -15,11 +15,11 @@ a term that encompasses diverse genomic alterations including deletion,
 
 <div class = "row">
     <div class = "col s12 m6" style="text-align:center">
-        <img src="./Structure/2.jpg" style="height:550px;width:450px">
+        <img src="./Structure/2.jpg" style="height:440px;width:360px">
     </div>
     <div class = "col s12 m6" style="text-align:center">
-         <img src="./Structure/3.jpg" style="height:275px;width:450px">
-         <img src="./Structure/4.jpg" style="height:275px;width:450px">
+         <img src="./Structure/3.jpg" style="height:200px;width:360px">
+         <img src="./Structure/4.jpg" style="height:200px;width:360px">
     </div>
 </div>
 
