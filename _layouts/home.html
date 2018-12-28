@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="container" style="width:inherit;margin: auto">
+<div class="slider">
+  <ul class="slides">
+    <li>
+      <img src="/images/1.jpg">
+    </li>
+    <li>
+      <img src="/images/2.jpg">
+    </li>
+    <li>
+      <img src="/images/3.jpg">
+    </li>
+    <li>
+      <img src="/images/5.jpg">
+    </li>
+  </ul>
+</div>
+</div>
+
+
+<div class="container">
+    <div class="section">
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12">
+          <div class="icon-block">
+            <h4 class="center">实验室简介</h4>
+            <p class="light" style="font-size: 17px">“叶凯青年科学家工作室”是西安交大第一个青年科学家工作室，工作室实行“首席科学家负责制”，以“精准医疗”国家重大需求为指引，以建立信息学大数据平台为基础，将组织跨学科研究团队，开展生物信息学和基因组学的前沿交叉研究，旨在用5年时间将工作室建成国际水平的、基础研究与临床研究紧密结合的精准医学研究机构。作为直属学校管理的独立科研机构，由学校提供基本资源保障及赋予管理自主权，在制定发展规划、聘用及考核工作室人员、跨学科招收与培养研究生等方面拥有自主权。学校对于工作室的管理实行“上提目标，下辅支撑”的模式。工作室将力邀优秀青年才俊加盟，与西安交大信息学科、生命学科、临床医学等现有团队密切合作，共享资源，聚焦国家‘一带一路’战略，开展种群研究，特别是种群遗传疾病研究，不仅能够减轻人民病痛，更能促进人民心灵相通。</p>
+          </div>
+        </div>
+
+
+      </div>
+
+    </div>
+
+    </div>
+     <div style="float: right;margin-top: 300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5buygi7y7b0&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;s=100" async="async"></script></div>
+    <div style="background: #fff">
+    <div class="container last-post">
+    <section>
+        <h5>Latest Post</h5>
+        <ul class="collection">
+        {% for post in site.posts limit:5 %}
+        <li class="collection-item avatar1">
+          {% assign date_format = site.minima.date_format | default: "%y/%m/%d" %}
+          <div class="title-form"><span class="post-title" style="font-size: 20px"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span></div>
+          <div class="data-form" style="font-size: 10px">{{ post.date | date: date_format }}</div>
+          <p style="font-size: 13px">
+
+            {{ post.content | strip_html | truncatewords:5}}
+
+          </p>
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+
+        </ul>
+
+    </section>
+    </div>
+
+</div>
+
+
+
+  </div>

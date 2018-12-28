@@ -1,0 +1,16 @@
+<!--  Scripts-->                                                                               
+<script src="{{ "js/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "js/materialize.min.js" | relative_url }}"></script>
+<script src="{{ "js/init.js" | relative_url }}"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.slider').slider({
+            full_width: false,
+            interval: 2000,
+            transition: 1000,
+            height: 500,
+            width:1000,
+            indicators: true
+        });
+    });
+</script>

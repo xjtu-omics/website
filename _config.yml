@@ -1,0 +1,23 @@
+title: Omics Lab
+author: Wei Hong
+email: weihong_xjtu@163.com
+baseurl: ""
+description: > # this means to ignore newlines until "baseurl:"
+  Omics Lab
+
+twitter_username: macrod68
+github_username:  WeiHong-XJTU
+
+sass:
+    style: compressed
+
+header_pages:
+    - news.md
+    - team.md
+    - research.md
+    - tools.md
+    - publications.md
+    - album.md
+
+paginate: 5
+paginate_path: "page:num"
