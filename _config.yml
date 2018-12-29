@@ -12,9 +12,9 @@ sass:
 
 header_pages:
     - news.md
-    - team.md
+    - people.md
     - research.md
-    - tools.md
+    - resource.md
     - publications.md
     - album.md
     - contact.md

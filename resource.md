@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools&Data
+title: Resource
 
 ---
 

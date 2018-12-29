@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /Team/
+title: People
+permalink: /People/
 ---
 
 <h1 class="header center blue-text">{{ page.title | escape }}</h1>
