@@ -67,7 +67,11 @@ title: Dr. Li Guo
                    <br/>
                    <br/>
                    <br/>
-                   <img src ="images/Guo Li_research_3.png" alt = " " height="200" align="left"/><b>Host-Pathogen Interactions using model plant Arabidopsis thaliana and filamentous fungus <i>Fusarium oxysporum</i></b>: Not all plants can be infected by all pathogens. The molecular mechanisms for host immunity against pathogenic and nonpathogenic fungi are not clear, but important for making effective disease control. We apply integrative approaches ranging from functional genomics to molecular genetics to dissect the molecular components in plants involved in sensing and responding to fungal infections.  
+                   <img src ="images/Guo Li_research_3.png" alt = " " height="200" align="left"/><b>Host-Pathogen Interactions using model plant Arabidopsis thaliana and filamentous fungus <i>Fusarium oxysporum</i></b>: Not all plants can be infected by all pathogens. The molecular mechanisms for host immunity against pathogenic and nonpathogenic fungi are not clear, but important for making effective disease control. We apply integrative approaches ranging from functional genomics to molecular genetics to dissect the molecular components in plants involved in sensing and responding to fungal infections.  <br/>
+                   <br/>
+                   <br/>
+                   <br/>
+                   <br/>
                 </div>
                 <div id = "publications">
                     <h5>Publications</h5>
