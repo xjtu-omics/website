@@ -64,12 +64,11 @@ title: Dr. Li Guo
                    <br/>
                    <br/>
                    <img src ="images/Guo Li_research_2.jpg" alt = " " height="200" align="right"/><b>Gene regulatory networks reconstruction in plants and pathogens:</b> Gene regulatory networks (GRNs) are in the center of every cell activity across wide range of organisms. Inferring and analyzing GRNs are not only fascinating scientific questions but also essential for improved and precise solution for medical and agricultural applications. We develop and implement algorithms to reconstruct GRNs in plants and pathogenic fungi from diverse experimental data such as transcriptome profiling, ChIP-seq datasets and protein-protein interaction data. This will help elucidate the systems control of important biological processes in medically and agriculturally important plants and microbes.<br/>
+                   <img src ="images/Guo Li_research_3.png" alt = " " height="200" align="left"/>
                    <br/>
                    <br/>
                    <br/>
-                   <img src ="images/Guo Li_research_3.png" alt = " " height="200" align="left"/><b>Host-Pathogen Interactions using model plant Arabidopsis thaliana and filamentous fungus <i>Fusarium oxysporum</i></b>: Not all plants can be infected by all pathogens. The molecular mechanisms for host immunity against pathogenic and nonpathogenic fungi are not clear, but important for making effective disease control. We apply integrative approaches ranging from functional genomics to molecular genetics to dissect the molecular components in plants involved in sensing and responding to fungal infections.  <br/>
-                   <br/>
-                   <br/>
+                   <b>Host-Pathogen Interactions using model plant Arabidopsis thaliana and filamentous fungus <i>Fusarium oxysporum</i></b>: Not all plants can be infected by all pathogens. The molecular mechanisms for host immunity against pathogenic and nonpathogenic fungi are not clear, but important for making effective disease control. We apply integrative approaches ranging from functional genomics to molecular genetics to dissect the molecular components in plants involved in sensing and responding to fungal infections.  <br/>
                    <br/>
                    <br/>
                 </div>
