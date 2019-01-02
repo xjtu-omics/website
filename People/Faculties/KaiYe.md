@@ -9,7 +9,6 @@ title: Dr. Kai Ye
 <div class = "row">
     <div class = "row">
             <div class = "col s12 m12">
-                    <img style="display:block; margin:0 auto;" src="images/ye.png" alt="" width="900"  />
                 <div id = "bio">
                     <h5>Biograph</h5>
                     <p>叶凯教授于2004年1月赴荷兰莱顿大学（Leiden University）攻读博士学位，自此开始接触生物信息学和基因组学领域，并先后作为博士后研究员、助理教授开展研究工作。2008年始，叶凯教授作为较早接触第二代高通量测序技术和数据的研究人员，以主要成员的身份参与了千人基因组计划（1000 Genomes Project）、美国肿瘤基因组路线图计划（The Cancer Genome Atlas，TCGA）、国际肿瘤基因组计划（The International Cancer Genome Consortium）、荷兰基因组（Genome of the Netherlands）等国际重大科学工程。 

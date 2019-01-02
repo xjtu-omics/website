@@ -15,7 +15,7 @@ permalink: /Contact/
 <h6 style="font-size:18px">Jing Hai: haijing@xjtu.edu.cn</h6>
 
 <h4>    Address:</h4>
-<h6 style="font-size:18px">Ye-lab For Omics And Omic's Informatics<h6>
+<h6 style="font-size:18px">Ye-lab For Omics And Omics Informatics<h6>
 <h6 style="font-size:18px">Room 107, Pengkang Building<h6>
 <h6 style="font-size:18px">Xi'an Jiaotong University<h6>
 <h6 style="font-size:18px">No.28, Xianning West Road, Xi'an, Shaanxi<h6>

@@ -17,6 +17,7 @@ header_pages:
     - resource.md
     - publications.md
     - album.md
+    - join us.md
     - contact.md
 
 paginate: 5

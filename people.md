@@ -21,12 +21,12 @@ permalink: /People/
     <h4>Professors</h4> 
     <div class="row">
           <div class="col s12 m4">
-          		  <img style="display:block; margin:0 auto;" src="images/Ye Kai.jpg" alt=""  height="290" />
+                  <a href="/People/Faculties/KaiYe.html"><img style="display:block; margin:0 auto;" src="images/Ye Kai.jpg" alt=""  height="290" /></a>
           </div>
           <div class="col s12 m4">
                   <br/>
                   <br/>
-          	      <h5 class="left-align">Dr. Kai Ye</h5>
+          	      <a href="/People/Faculties/KaiYe.html" style="color:black;"><h5 class="left-align">Dr. Kai Ye</h5></a>
           	      <h6 class="left-align">西安交通大学青年拔尖人才计划</h6>
           	      <h6 class="left-align">“叶凯青年科学家工作室”负责人</h6>
                   <a href="/People/Faculties/KaiYe.html"><h6 class="left-align">read more>></h6></a>
@@ -36,23 +36,23 @@ permalink: /People/
     <h4>Associate Professors</h4>    
     <div class="row">
              <div class="col s12 m4">
-                  <img style="display:block; margin:0 auto;" src="images/Guo Li.jpg" alt="" height="290" />
+                  <a href="/People/Faculties/LiGuo.html"><img style="display:block; margin:0 auto;" src="images/Guo Li.jpg" alt="" height="290" /></a>
              </div>
              <div class="col s12 m4">
                   <br/>
                   <br/>
-                  <h5 class="left-align">Dr. Li Guo</h5>
+                  <a href="/People/Faculties/LiGuo.html" style="color:black;"><h5 class="left-align">Dr. Li Guo</h5></a>
                   <a href="/People/Faculties/LiGuo.html"><h6 class="left-align">read more>></h6></a>
              </div>
     </div>
     <div class="row">
              <div class="col s12 m4">
-                  <img style="display:block; margin:0 auto;" src="images/Yang Xiaofei.jpg" alt="" height="290" />
+                  <a href="/People/Faculties/XiaofeiYang.html"><img style="display:block; margin:0 auto;" src="images/Yang Xiaofei.jpg" alt="" height="290" /></a>
              </div>
              <div class="col s12 m4">
                   <br/>
                   <br/>
-                  <h5 class="left-align">Dr. Xiaofei Yang</h5>
+                  <a href="/People/Faculties/XiaofeiYang.html" style="color:black;"><h5 class="left-align">Dr. Xiaofei Yang</h5></a>
                   <a href="/People/Faculties/XiaofeiYang.html"><h6 class="left-align">read more>></h6></a>
              </div>
     </div>
