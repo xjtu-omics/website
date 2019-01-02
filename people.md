@@ -29,7 +29,7 @@ permalink: /People/
           	      <h5 class="left-align">Dr. Kai Ye</h5>
           	      <h6 class="left-align">西安交通大学青年拔尖人才计划</h6>
           	      <h6 class="left-align">“叶凯青年科学家工作室”负责人</h6>
-                  <a href="/Team/Faculties/KaiYe.html"><h6 class="left-align">read more>></h6></a>
+                  <a href="/People/Faculties/KaiYe.html"><h6 class="left-align">read more>></h6></a>
           </div>
     </div>   
     <div class="divider"></div>   
@@ -42,7 +42,7 @@ permalink: /People/
                   <br/>
                   <br/>
                   <h5 class="left-align">Dr. Li Guo</h5>
-                  <a href="/Team/Faculties/LiGuo.html"><h6 class="left-align">read more>></h6></a>
+                  <a href="/People/Faculties/LiGuo.html"><h6 class="left-align">read more>></h6></a>
              </div>
     </div>
     <div class="row">
@@ -53,7 +53,7 @@ permalink: /People/
                   <br/>
                   <br/>
                   <h5 class="left-align">Dr. Xiaofei Yang</h5>
-                  <a href="/Team/Faculties/XiaofeiYang.html"><h6 class="left-align">read more>></h6></a>
+                  <a href="/People/Faculties/XiaofeiYang.html"><h6 class="left-align">read more>></h6></a>
              </div>
     </div>
     

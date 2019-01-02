@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Associate Professor Li Guo
+title: Dr. Li Guo
 ---
 
 
@@ -17,14 +17,20 @@ title: Associate Professor Li Guo
                     <h5>Education</h5>
                     <table style="border:none;background:none;">
                     <tr> 
+                        <th>Postdoc</th>
+                        <th>Bioinformatics & Genomics</th>
+                        <th>Penn State University, USA</th>
+                        <th>2016.10</th>
+                    </tr>
+                    <tr> 
                         <th>Ph.D.</th>
-                        <th>Cum Laude Biopharmaceutical science</th>
+                        <th>Plant Pathology</th>
                         <th>Penn State University, USA</th>
                         <th>2012.02</th>
                     </tr>
                     <tr style="border:none;background:none;">
                         <th>B.A.</th>
-                        <th>Biopharmaceutical science</th>
+                        <th>Plant Protection</th>
                         <th>Northwest A&F University, China </th>
                         <th>2006.06</th>
                     </tr>
@@ -42,6 +48,48 @@ title: Associate Professor Li Guo
                         <th>Postdoctoral</th>
                         <th>University of Massachusetts Amherst, USA </th>
                         <th>2012.03-2016.09 </th>
+                    </tr>
+                    <tr style="border:none;background:none;">
+                        <th>Research Assistant</th>
+                        <th>Penn State University, USA </th>
+                        <th>2006.08-2012.02 </th>
+                    </tr>
+                    </table>
+                </div>
+                <div id = "awards">
+                    <h5>Awards and Grants</h5>
+                    •	Key Technology Development for Precision Medicine, National Key R&D Program of China (No. 2018YFC0910400), 2018<br/>
+                    •	Young Investigator Grant, Natural Science Foundation of China (No. 31701739)<br/>
+                        “Dynamic gene regulatory network reconstruction and pathogenicity module network mining in head blight fungus Fusarium graminearum” , 2018<br/>
+                    •	Chinese Postdoctoral Science Foundation Grant (No. 2017M623188)<br/>
+                    	“Reconstruction of transcriptional regulatory networks in vascular wilt fungus Fusarium oxyspourm for pathogenesis”, 2017<br/>
+                    •	Graduate Student Travel Award, Penn State University, 2011<br/>
+                    •	Graduate Research Competitive Grants, Penn State University, 2011<br/>
+                    •	Graham Endowed Fellowship, Penn State University, 2006<br/>
+                    •	Quanyu Scholarship, Northwest A&F University, 2005<br/>
+                </div>
+                <div id = "Professional">
+                    <h5>Professional Societies</h5>
+                    <table style="border:none;background:none;">
+                    <tr>
+                        <th>Member</th>
+                        <th>American Association for the Advancement of Science (AAAS)</th>
+                        <th>2008-Present</th>
+                    </tr>
+                    <tr style="border:none;background:none;">
+                        <th>Member</th>
+                        <th>American Society of Plant Biology(ASPB)</th>
+                        <th>2012-Present</th>
+                    </tr>
+                    <tr style="border:none;background:none;">
+                        <th>Member</th>
+                        <th>American Society of Phytopathology (APS)</th>
+                        <th>2008-Present</th>
+                    </tr>
+                    <tr>
+                        <th>Member</th>
+                        <th>Mycological Society of America (MSA)</th>
+                        <th>2008-Present</th>
                     </tr>
                     </table>
                 </div>

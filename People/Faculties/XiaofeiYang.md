@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture Xiaofei Yang
+title: Dr. Xiaofei Yang
 ---
 
 

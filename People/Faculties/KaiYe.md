@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professor Kai Ye
+title: Dr. Kai Ye
 ---
 
 
@@ -84,8 +84,6 @@ title: Professor Kai Ye
                     •	2004-2005 Leiden University Scholarship, The Netherlands.<br/>
                     •	2000-2003 Wuhan University fellowship for excellent graduate student, China.<br/>
                     •	1996-1999 Wuhan University fellowship for excellent undergraduate, China.<br/>
-
-
             </div>
     </div>
 </div>
